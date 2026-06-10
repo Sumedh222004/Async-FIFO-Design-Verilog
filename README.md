@@ -280,10 +280,8 @@ write_bitstream -force "async_fifo_top.bit"
 
 ## Author
 
-**Your Name**  
-B.Tech Electronics & Telecommunication  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
-
+**Sumedh Wankhede**  
+B.Tech Electrical Engineering
 ---
 
 *This project is part of a digital design portfolio demonstrating RTL design, CDC techniques, and FPGA implementation skills.*
